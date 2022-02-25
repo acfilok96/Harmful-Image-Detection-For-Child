@@ -1,7 +1,7 @@
-# Novices_Project
-Novices_Project_formal
+# Harmful-Image-Detection-For-Child
+Project_formal
 
-Project Name: "𝐬𝐞𝐱𝐮𝐚𝐥𝐥𝐲 𝐞𝐱𝐩𝐥𝐢𝐜𝐢𝐭 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐝𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐚 𝐢𝐦𝐚𝐠𝐞".
+Project Name: "𝐇𝐚𝐫𝐦𝐟𝐮𝐥 𝐈𝐦𝐚𝐠𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐅𝐨𝐫 𝐂𝐡𝐢𝐥𝐝".
 
 
 
